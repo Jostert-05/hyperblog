@@ -14,3 +14,4 @@
 
 * Creado por el incre&iacute;ble Joster Team
 * Incluye ejemplos en Windows, Linux y Mac
+* Disponoble para todas las edades
