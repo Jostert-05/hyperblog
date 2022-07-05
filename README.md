@@ -13,3 +13,4 @@
 **AMO ❤️ LOS CURSOS DE PLATZI & ME SIENTO FELIZ 😊 DE PODER DAR TODO DE MI PARA CARRERA.**
 
 * Creado por el incre&iacute;ble Joster Team
+* Incluye ejemplos en Windows, Linux y Mac
